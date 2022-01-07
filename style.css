@@ -21,3 +21,13 @@ body {
 .author-name {
   color: steelblue;
 }
+.author-name:hover{
+  color: blue;
+  font-size: large;
+  font-weight: bold;
+}
+.blog h3:hover{
+  color: blue;
+  font-size: 25px;
+  font-weight: bold;
+}

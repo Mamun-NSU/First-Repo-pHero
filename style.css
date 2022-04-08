@@ -1,12 +1,15 @@
+/* body tag; get style for full body  */
 body {
   margin: 0;
   padding: 0;
   font-family: "Roboto", sans-serif;
   text-align: center;
 }
+
 .greeting {
   color: seagreen;
 }
+
 .blog-section {
   width: 80%;
   margin: 0 auto;
@@ -18,15 +21,18 @@ body {
   border-radius: 10px;
   margin-bottom: 20px;
 }
+
 .author-name {
   color: steelblue;
 }
-.author-name:hover{
+
+.author-name:hover {
   color: blue;
   font-size: large;
   font-weight: bold;
 }
-.blog h3:hover{
+
+.blog h3:hover {
   color: blue;
   font-size: 25px;
   font-weight: bold;

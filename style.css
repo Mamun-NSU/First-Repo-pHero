@@ -1,4 +1,3 @@
-/* body tag; get style for full body  */
 body {
   margin: 0;
   padding: 0;
@@ -15,7 +14,7 @@ body {
   margin: 0 auto;
 }
 
-/* style for blog */
+
 .blog {
   background-color: ivory;
   border: 5px solid blue;
